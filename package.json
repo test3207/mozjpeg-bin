@@ -1,7 +1,7 @@
 {
 	"name": "mozjpeg-plus",
-	"version": "0.0.1",
-	"description": "source url configurable mozjpeg",
+	"version": "0.0.2",
+	"description": "build-locally version mozjpeg",
 	"license": "MIT",
 	"bin": "cli.js",
 	"engines": {
