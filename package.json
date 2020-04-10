@@ -1,6 +1,6 @@
 {
 	"name": "mozjpeg-plus",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"description": "build-locally version mozjpeg",
 	"license": "MIT",
 	"bin": "cli.js",
@@ -15,7 +15,7 @@
 		"index.js",
 		"cli.js",
 		"lib",
-		"vendor/source"
+		"vendor"
 	],
 	"keywords": [
 		"imagemin",
